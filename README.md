@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/feelingProud.svg" alt="hoangsang17th" width="250px">
     <p align="center"><i>I love to learn through my own experiences. I like the number 17</i></p>
     <p align="center">
-        <a href="http://my17th.com" target="_blank">
+        <a href="http://hoangsang17th.com" target="_blank">
             <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/link.svg" alt="HoangSang17Th - My17th.com" width="20px">
         </a>
         &emsp;
