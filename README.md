@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/feelingProud.svg" alt="hoangsang17th" width="250px">
     <p align="center"><i>I love to learn through my own experiences. I like the number 17</i></p>
     <p align="center">
-        <a href="http://hoangsang17th.com" target="_blank">
+        <a href="http://cv.phamhoangsang.tech" target="_blank">
             <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/link.svg" alt="HoangSang17Th - My17th.com" width="20px">
         </a>
         &emsp;
@@ -14,11 +14,11 @@
             <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/instagram.svg" alt="HoangSang17Th - Instagram" width="20px">
         </a>
         &emsp;
-        <a href="mailto: hoangsang17th@gmail.com" target="_blank">
+        <a href="mailto: phsang49@gmail.com" target="_blank">
             <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/mail.svg" alt="HoangSang17Th - Email" width="20px"> 
         </a>
-        <!-- <a href="" target="_blank">
+        <a href="https://www.paypal.me/hoangsang17th" target="_blank">
             <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/coffee.svg" alt="HoangSang17Th - Coffee" width="20px" style="padding:10px">
-        </a> -->
+        </a>
     </p>
 </p>
