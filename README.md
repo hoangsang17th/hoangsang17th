@@ -17,6 +17,7 @@
         <a href="mailto: phsang49@gmail.com" target="_blank">
             <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/mail.svg" alt="HoangSang17Th - Email" width="20px"> 
         </a>
+    &emsp;
         <a href="https://www.paypal.me/hoangsang17th" target="_blank">
             <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/coffee.svg" alt="HoangSang17Th - Coffee" width="20px" style="padding:10px">
         </a>
