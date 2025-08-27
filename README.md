@@ -23,8 +23,5 @@
             <img src="https://raw.githubusercontent.com/hoangsang17th/hoangsang17th/main/svgs/coffee.svg" alt="HoangSang17Th - Coffee" width="20px" style="padding:10px">
         </a>
     </p>
-     <p align="center">
-        <img height="30px" src = "https://profile-counter.glitch.me/hoangsang17th/count.svg" alt ="Loading">
-     </p>
 </p>
       
